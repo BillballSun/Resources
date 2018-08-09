@@ -1,3 +1,1 @@
-# Resources
-
-This is a temp file.
+# live2d
