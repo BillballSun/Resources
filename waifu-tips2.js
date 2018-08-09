@@ -180,7 +180,7 @@ function initModel(waifuPath){
 	
 	$.ajax({
         cache: true,
-        url: 'https://raw.githack.com/ArisAgeha/live2d/master/waifu-tips.json',
+        url: waifuPath+'waifu-tips.json',
         dataType: "json",
         success: function (result){
             $.each(result.mouseover, function (index, tips){
