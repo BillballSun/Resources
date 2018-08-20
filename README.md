@@ -1,1 +1,1 @@
-# live2d
+# opps, I can't afford a server.
